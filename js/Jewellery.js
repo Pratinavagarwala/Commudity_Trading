@@ -1,0 +1,9 @@
+class Jewellery {
+
+    constructor() {
+      
+    }
+    display(){
+        
+    }
+}
